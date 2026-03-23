@@ -1,9 +1,9 @@
-<!-- 🥖 Sistema de Gerenciamento - Padaria Peter Pão -->
+# 🥖 Sistema de Gerenciamento - Padaria Peter Pão# 
 Este é um projeto em Python desenvolvido para modernizar o atendimento da Padaria Peter Pão, permitindo que clientes visualizem o cardápio, façam pedidos personalizados e escolham a forma de entrega e pagamento de forma automatizada.
 
 O programa utiliza estruturas de dados para organizar o carrinho de compras, categorias de produtos e processamento de finalização de pedidos.
 _____________________________________________________________________________________________________________________________________________________
-<!-- 🚀 Funcionalidades -->
+#🚀 Funcionalidades#
 O sistema está dividido em módulos principais:
 
 1- *Acesso e Cadastro:* **Sistema de login seguro e registro de dados do cliente (E-mail, CPF, Endereço).**
@@ -18,7 +18,7 @@ O sistema está dividido em módulos principais:
 
 5- *Confirmação de Recebimento:* **Sistema de status que confirma quando o pedido foi enviado com sucesso para a cozinha da padaria.**
 _____________________________________________________________________________________________________________________________________________________
-<!-- 🛠️ Tecnologias e Estruturas Utilizadas -->
+#🛠️ Tecnologias e Estruturas Utilizadas#
 
 O projeto foi construído utilizando conceitos fundamentais de Python, focando em lógica de programação pura:
 
@@ -32,7 +32,7 @@ O projeto foi construído utilizando conceitos fundamentais de Python, focando e
 
 *- Formatação de Dados*: **Uso de f-strings para exibição de valores monetários corrigidos (R$).**
 _____________________________________________________________________________________________________________________________________________________
-<!-- 📋 Como Executar -->
+# 📋 Como Executar #
 *Certifique-se de ter o Python 3.x instalado.*
 
 *Salve o código em um arquivo chamado padaria_peter_pao.py.*
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 *Bash*
 *python padaria_peter_pao.py*
 _____________________________________________________________________________________________________________________________________________________
-<!-- 📖 Exemplo de Uso -->
+# 📖 Exemplo de Uso #
 Ao iniciar o programa, o usuário seguirá este fluxo:
 
 Identificação: O sistema saúda o cliente pelo nome.
